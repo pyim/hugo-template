@@ -17,18 +17,24 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Arinfo
+    - OpenSpace3D
+    - Formao
+    - ImagineLab
+    required: true
+  label: Categories
+  default: Arinfo
+- type: file
+  name: image
+  label: Image
