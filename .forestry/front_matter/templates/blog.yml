@@ -38,3 +38,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- content/blog/test.md
