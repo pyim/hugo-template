@@ -207,7 +207,7 @@ article img {
 }
 
 .single {
-  padding: 0 rem
+  padding: 0 !important;
 
 }
 
@@ -250,8 +250,8 @@ article img {
   }
 
   .single {
-    display: grid;
-    grid-template-columns: 1fr;
+    max-width: 850px;
+    margin: 0 auto;
   }
 
   .single span {
