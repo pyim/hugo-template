@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>i-maginer.com/blog/test/</loc>
-    <lastmod>2019-03-22T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</loc>
     <lastmod>2019-03-01T12:00:00+00:00</lastmod>
   </url>
@@ -23,20 +18,13 @@
   </url>
   
   <url>
-    <loc>i-maginer.com/categories/arinfo/</loc>
-    <lastmod>2019-03-22T23:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>i-maginer.com/blog/</loc>
-    <lastmod>2019-03-22T23:00:00+00:00</lastmod>
+    <lastmod>2019-03-01T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>i-maginer.com/categories/</loc>
-    <lastmod>2019-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +41,7 @@
   
   <url>
     <loc>i-maginer.com/</loc>
-    <lastmod>2019-03-22T23:00:00+00:00</lastmod>
+    <lastmod>2019-03-01T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
