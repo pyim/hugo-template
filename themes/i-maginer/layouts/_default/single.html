@@ -18,17 +18,11 @@
                 {{ .Content}}
             </div>
             <span>Publié le {{ dateFormat "2 Jan, 2006" .PublishDate }}, par {{ .Site.Params.author.name }}.
-                    Voir d'autres articles de : {{ range .Params.categories }}
-                    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
-                    {{ end }}
+                
             </span>
         
     </div>
   </main>
-
-
-
-
         <!-- Begin Article
         ================================================== -->
                         <!-- Author Box -->	
