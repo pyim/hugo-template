@@ -22,22 +22,20 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: Image
 - type: select
   name: categories
   config:
     source:
       type: simple
     options:
-    - Arinfo
     - OpenSpace3D
+    - Arinfo
     - Formao
     - ImagineLab
-    required: true
   label: Categories
-  default: Arinfo
-- type: file
-  name: image
-  label: Image
 pages:
 - content/blog/openspace3d-partenaire-du-projet-européen-parthenos.md
 - content/blog/test.md
