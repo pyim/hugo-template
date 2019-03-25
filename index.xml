@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>i-maginer</title>
+    <link>i-maginer.com/</link>
+    <description>Recent content on i-maginer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 22 Mar 2019 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="i-maginer.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>i-maginer.com/blog/test/</link>
+      <pubDate>Fri, 22 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>i-maginer.com/blog/test/</guid>
+      <description>contenu</description>
+    </item>
+    
+    <item>
+      <title>OpenSpace3D partenaire du projet européen PARTHENOS</title>
+      <link>i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</link>
+      <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
+      
+      <guid>i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</guid>
+      <description>Dans le cadre du projet européen PARTHENOS, le consortium 3D-SHS (TGIR Huma-Num), Inria et le CNR ont organisé, avec le soutien du laboratoire commun CNRS-MAP/CNR-ISTI, un atelier sur les objets 3D : Share — Publish — Store — Preserve.</description>
+    </item>
+    
+    <item>
+      <title>OpenSpace3D récompensé par un award sur la sécurité incendie /attentat</title>
+      <link>i-maginer.com/blog/ninth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      
+      <guid>i-maginer.com/blog/ninth/</guid>
+      <description>I-Maginer and OpenSpace3D in collaboration with Security Academy just win an award at the Food Hotel Tech exhibition, for our Virtual Reality applications to learn fire extinguishing using a real extinguisher in VR and our Terrorist attack simulation for Hotel staff.</description>
+    </item>
+    
+  </channel>
+</rss>

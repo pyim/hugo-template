@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on i-maginer</title>
+    <link>i-maginer.com/categories/</link>
+    <description>Recent content in Categories on i-maginer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 22 Mar 2019 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="i-maginer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arinfo</title>
+      <link>i-maginer.com/categories/arinfo/</link>
+      <pubDate>Fri, 22 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>i-maginer.com/categories/arinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openspace3d</title>
+      <link>i-maginer.com/categories/openspace3d/</link>
+      <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
+      
+      <guid>i-maginer.com/categories/openspace3d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
