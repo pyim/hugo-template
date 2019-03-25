@@ -22,19 +22,6 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- type: select
-  name: categories
-  config:
-    source:
-      type: simple
-    options:
-    - Arinfo
-    - OpenSpace3D
-    - Formao
-    - ImagineLab
-    required: true
-  label: Categories
-  default: Arinfo
 - type: file
   name: image
   label: Image
