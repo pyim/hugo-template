@@ -6,19 +6,10 @@
     <description>Recent content on i-maginer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 Mar 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="i-maginer.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>articl2</title>
-      <link>i-maginer.com/blog/articl2/</link>
-      <pubDate>Sat, 23 Mar 2019 23:00:00 +0000</pubDate>
-      
-      <guid>i-maginer.com/blog/articl2/</guid>
-      <description>njnjnj</description>
-    </item>
     
     <item>
       <title>test</title>
@@ -35,6 +26,15 @@
       <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
       
       <guid>i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</guid>
+      <description>Dans le cadre du projet européen PARTHENOS, le consortium 3D-SHS (TGIR Huma-Num), Inria et le CNR ont organisé, avec le soutien du laboratoire commun CNRS-MAP/CNR-ISTI, un atelier sur les objets 3D : Share — Publish — Store — Preserve.</description>
+    </item>
+    
+    <item>
+      <title>OpenSpace3D partenaire du projet européen PARTHENOS.</title>
+      <link>i-maginer.com/blog/articl2/</link>
+      <pubDate>Thu, 28 Feb 2019 23:00:00 +0000</pubDate>
+      
+      <guid>i-maginer.com/blog/articl2/</guid>
       <description>Dans le cadre du projet européen PARTHENOS, le consortium 3D-SHS (TGIR Huma-Num), Inria et le CNR ont organisé, avec le soutien du laboratoire commun CNRS-MAP/CNR-ISTI, un atelier sur les objets 3D : Share — Publish — Store — Preserve.</description>
     </item>
     
