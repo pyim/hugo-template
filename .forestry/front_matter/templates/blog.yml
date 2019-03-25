@@ -39,4 +39,5 @@ fields:
   name: image
   label: Image
 pages:
+- content/blog/openspace3d-partenaire-du-projet-européen-parthenos.md
 - content/blog/test.md
